@@ -48,6 +48,7 @@
       "exclude": "**/node_modules/**"
     }
   ],
+
   "test": {
     "karma": {
       "config": "./karma.conf.js"
@@ -57,4 +58,5 @@
     "styleExt": "css",
     "component": {}
   }
+
 }

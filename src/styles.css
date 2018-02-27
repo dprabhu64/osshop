@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+/*body {padding-top: 80px;}*/
+.navbar-default {
+    background-color: #3F729B;
+   
+}
+.navbar-default .navbar-brand{
+    color: #fffde7;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fffde7;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
